@@ -16,3 +16,6 @@ const Stephanie = {
 I love connecting with other people, say hello!👋🏻
 
 💌 stephcamposc@gmail.com
+
+💌 [linkedin.com/in/stephaniecamposc](https://www.linkedin.com/in/stephaniecamposc/)
+
