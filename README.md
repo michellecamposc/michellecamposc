@@ -10,7 +10,6 @@ const Stephanie = {
   tools: [Node, Git, Jest, GitHub, Trello, Firebase],
   design: [Figma, AdobeXD, Miro, InVision],
   challenge: "I am currently learning Python🐍",
-  Curious fact: "I would like to learn more about artificial intelligence"
 }
 ```
 
