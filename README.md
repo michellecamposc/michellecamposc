@@ -6,10 +6,11 @@ I'm passionate about programming and design, both worlds converge to allow me to
 ```js
 
 const Stephanie = {
-  code: [Javascript, HTML, CSS],
-  tools: [React, Node, Git, Jest, GitHub, Trello, Firebase],
+  code: [Javascript, HTML, CSS, React],
+  tools: [Node, Git, Jest, GitHub, Trello, Firebase],
   design: [Figma, AdobeXD, Miro, InVision],
-  challenge: "I'm learning web development in #180days, focused on JavaScript and React"
+  challenge: "I am currently learning Python🐍"
+  Corious fact: "I would like to learn more about artificial intelligence"
 }
 ```
 
