@@ -5,7 +5,7 @@ I'm passionate about programming and design, both worlds converge to allow me to
 
 ```js
 
-const Stephanie = {
+const Michelle = {
   code: [HTML, CSS, Bootstrap, Saas, Javascript, React, Nodejs],
   tools: [Git, GitHub, Jest, Docker, Postman, Firebase, MongoDB],
   design: [Figma, AdobeXD, Miro, InVision],
